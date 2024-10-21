@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ExampleIntent</string>
+
+    <!--BUTTONS-->
+    <string name="btnImplicit">Intent Implicito</string>
+    <string name="btnExplicit">Intent Explicito</string>
+
+    <!--TEXT'S-->
+    <string name="txtTitle">Selecciona un Intent</string>
+
+</resources>
