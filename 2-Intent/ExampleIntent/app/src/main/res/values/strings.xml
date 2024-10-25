@@ -4,8 +4,15 @@
     <!--BUTTONS-->
     <string name="btnImplicit">Intent Implicito</string>
     <string name="btnExplicit">Intent Explicito</string>
+    <string name="btnExpImplicit">Ejecutar Ejemplo</string>
+    <string name="btnExpExplit">Ejecutar Ejemplo</string>
+
 
     <!--TEXT'S-->
     <string name="txtTitle">Selecciona un Intent</string>
+    <string name="txtIntentImplicto">Intent Implicito"</string>
+    <string name="txtIntentExplito">Intent Explicito"</string>
+    <string name="txtMsgExampleScreen">Pagina de ejemplo</string>
+
 
 </resources>

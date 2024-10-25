@@ -4,7 +4,12 @@
     <color name="white">#FFFFFFFF</color>
 
     <color name="GreenBackground">#4CAF50</color>
+    <color name="PurpleBackground">#673AB7</color>
     <color name="BlueButtons">#2196F3</color>
+
+    <color name="redImplicit">#980A3A</color>
+    <color name="grayButton">#8F8F8F</color>
+
 
 
 </resources>
